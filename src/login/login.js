@@ -1,7 +1,7 @@
 import React from "react";
 import "./login.css";
-import Header from "./shared/Header";
-import Footer from "./shared/Footer";
+import Header from "../shared/Header";
+import Footer from "../shared/Footer";
 import Video from "./video.mp4";
 import { Link } from "react-router-dom";
 

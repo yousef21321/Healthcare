@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import Login from "./login.js";
+import Login from "./login/login.js";
 import SignUp from "./sign/signup.js";
 import App from "./App";
 import Patient from "./components/Patient";
